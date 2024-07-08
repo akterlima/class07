@@ -1,0 +1,10 @@
+
+
+
+section{
+        background: url(../image/bg.jpg); 
+        background-size: cover;
+        display: flex;
+        align-items: center;
+}
+   
